@@ -1,6 +1,6 @@
 {
   "name": "express-url-rewrite",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Rewrite request url",
   "main": "lib/express-url-rewrite/index.js",
   "scripts": {
@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/seedalpha/express-url-rewrite",
   "dependencies": {
-    "url-pattern": "0.6.0"
+    "url-pattern": "0.7.0"
   },
   "devDependencies": {
     "express": "^4.12.3",
