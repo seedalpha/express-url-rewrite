@@ -1,0 +1,32 @@
+{
+  "name": "express-url-rewrite",
+  "version": "1.0.0",
+  "description": "Rewrite request url",
+  "main": "lib/express-url-rewrite/index.js",
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:seedalpha/express-url-rewrite.git"
+  },
+  "keywords": [
+    "express",
+    "rewrite",
+    "url"
+  ],
+  "author": "Vladimir Popov <rusintez@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seedalpha/express-url-rewrite/issues"
+  },
+  "homepage": "https://github.com/seedalpha/express-url-rewrite",
+  "dependencies": {
+    "url-pattern": "0.6.0"
+  },
+  "devDependencies": {
+    "express": "^4.12.3",
+    "mocha": "^2.2.1",
+    "supertest": "^0.15.0"
+  }
+}
