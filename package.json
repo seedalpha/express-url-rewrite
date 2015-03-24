@@ -1,6 +1,6 @@
 {
   "name": "express-url-rewrite",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Rewrite request url",
   "main": "lib/express-url-rewrite/index.js",
   "scripts": {
